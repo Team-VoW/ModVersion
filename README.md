@@ -1,0 +1,2 @@
+# ModVersion
+CurrentModVersion
